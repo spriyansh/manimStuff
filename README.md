@@ -1,1 +1,1 @@
-Simple Animation produced with MANIM
+Simple Animations produced with MANIM
