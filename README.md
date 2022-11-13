@@ -1,4 +1,4 @@
-!(MANIM_Header)[otherStuff/header_manim_ManimCE_v0.16.0.post0.gif]
+!(MANIM_Header)[https://raw.githubusercontent.com/spriyansh/manimStuff/master/otherStuff/header_manim_ManimCE_v0.16.0.post0.gif]
 
 Simple Animations produced with MANIM
 
