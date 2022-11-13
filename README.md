@@ -1,3 +1,4 @@
+!(https://raw.githubusercontent.com/3b1b/manim/master/logo/cropped.png)
 Simple Animations produced with MANIM
 
 
