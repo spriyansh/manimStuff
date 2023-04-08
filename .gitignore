@@ -3,3 +3,5 @@
 2d_plots/simple_linear_regression_2d/media/*
 otherStuff/__pycache__/*
 otherStuff/media/*
+3d_plots/multiple_linear_regression_3d/__pycache__/*
+3d_plots/multiple_linear_regression_3d/media/*
